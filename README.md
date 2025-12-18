@@ -84,13 +84,3 @@ https://drive.google.com/drive/folders/11ffb2pmz5Az-fXHw4OdXJzhH5OJ4tjTD
 > *Futuristic happy digital painting of a heroic robotic **Bull mascot** wearing a high-tech scholar cap, standing in a bright sunlit digital **city** representing Banjarmasin. The mascot is holding a glowing **NFT Certificate** and creating a stream of floating XLM coins, representing **creating abundance**. The atmosphere is vibrant and optimistic, symbolizing **new frontiers** in blockchain education technology.*
 
 ---
-
-**Langkah Terakhir Anda:**
-
-1. **Copy** semua teks bahasa Inggris di atas.
-2. **Paste** ke file `README.md` di GitHub kamu (Klik ikon pensil dulu).
-3. **Upload Foto**: Taruh foto-fotonya sesuai tempat yang saya tandai dengan menarik (*drag*) filenya ke editor.
-4. **Commit**: Klik tombol hijau **"Commit changes"** untuk simpan.
-5. **Submit**: Kirim link GitHub tersebut ke portal pengumpulan sebelum jam deadline berakhir!
-
-**Would you like me to write a short English message you can send to the judges when you submit this link?**
