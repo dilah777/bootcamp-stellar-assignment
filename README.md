@@ -1,6 +1,6 @@
 # bootcamp-stellar-assignment
 muhammad guntur sa'dillah, bootcamp stellar assignment
-This is the English version of your README. I have kept the instructions for photo placement in Indonesian as you requested.
+This is the English version of your README. 
 
 ---
 
